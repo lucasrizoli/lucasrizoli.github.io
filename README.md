@@ -1,4 +1,3 @@
-lucasrizoli.github.com
-======================
+# lucasrizoli.github.io
 
-User repo for GitHub Pages
+Quick personal site. Tried to keep it reasonably straight-forward. Written by hand.
