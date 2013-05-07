@@ -1,38 +1,107 @@
-
 <!doctype html>
-<html>
+<html lang="en-CA">
 <head>
 	<meta charset="utf-8">
 	<title>Lucas Rizoli</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="favicon.ico">
 	<style>
+		body, div, h1, p, a, img { margin: 0; padding: 0;}
+
 		body {
-			background-color: #333;
-			font: 28px/30px Georgia, "Times New Roman", Times, serif; 
-			color: #eee;
-			letter-spacing:-0.02em;
-			margin: 1em;
+			padding: 48px;
+			background-color: #61d2d6;
+			font-family: "Nunito", sans-serif;
 		}
 
-		p {
-			width: 14em;
+		abbr {
+			border-bottom: none;
 		}
 
-		a {
-			color: #9f3;
+		span.amp, abbr {
+			font-size: 0.9em;
+		}
+
+		#container {
+			width: 480px;
+			box-shadow: 0px 0px 24px #76dfe3;
+		}
+
+		#banner {
+			background-color: #edecec;
+			padding: 16px;
+		}
+
+		#banner-content {
+			margin-left: 80px;
+		}
+
+		#banner-avatar {
+			float: left;
+			margin-left: -80px;
+		}
+
+		#banner-heading {
+			color: #222;
+			font-size: 23px;
+			line-height: 24px;
+			font-weight: normal;
+			text-transform: uppercase;
+		}
+
+		#banner-olb {
+			color: #555;
+			font-size: 16px;
+			line-height: 18px;
+			margin-top: 4px;
+		}
+
+		#nav {
+			background-color: #edde45;
+			overflow: auto;
+			zoom: 1;
+		}
+
+		#nav a {
+			display: block;
+			float: left;
+			font-size: 15px;
+			height: 24px;
+			width: 80px;
+			padding: 10px 8px 6px 8px;
+			color: #ea3556;
 			text-decoration: none;
 		}
 
-		a:visited {
-			color: #9c0;
-		}
-
-		a:hover {
-			color: #cf3;
+		#nav a:hover, a:focus {
+			background-color: #ea3556;
+			color: #edde45;
 			text-decoration: underline;
+			text-shadow: 0px 0px 3px #ba243f;
 		}
 	</style>
+	<link href="http://fonts.googleapis.com/css?family=Nunito:300" rel="stylesheet">
 </head>
 <body>
-	<p>See <a href="http://lucasrizoli.com/">http://lucasrizoli.com/</a></p>
+	<div id="container">
+
+		<div id="banner" role="banner">
+			<div id="banner-content">
+				<img id="banner-avatar" src="https://secure.gravatar.com/avatar/b7a91c08d26e5acd81eee0ca34142796?s=64#38;d=http%3A%2F%2Flucasrizoli.com%2Fimg%2Flucasrizoli-128.png" alt="[Lucas Rizoli]" width="64" height="64">
+				<h1 id="banner-heading">Lucas Rizoli</h1>
+				<p id="banner-olb">Digs games, <abbr title="user interfaces">UI</abbr>, <span class="amp">&#38;</span> the web. Lives in Toronto.
+					<br>
+					Born in Brazil, not a pirate ship full of apples.</p>
+			</div>
+		</div>
+
+		<div id="nav" role="navigation">
+			<a href="https://twitter.com/lucasrizoli">@lucasrizoli</a>
+			<a href="http://www.goodreads.com/lucasrizoli ">GoodReads</a>
+			<a href="http://slideshare.net/lrizoli/">SlideShare</a>
+			<a href="https://github.com/lucasrizoli">GitHub</a>
+			<a href="http://steamcommunity.com/id/lucasrizoli">Steam</a>
+		</div>
+	</div>
 </body>
 </html>
