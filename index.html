@@ -10,12 +10,14 @@
 		body, div, h1, p, a, img { margin: 0; padding: 0;}
 
 		body {
-			background-color: #61d2d6;
+			background-color: #283054;
 			font-family: "Nunito", sans-serif;
+			font-size: 18px;
 		}
 
 		abbr {
 			border-bottom: none;
+			text-decoration: none;
 		}
 
 		span.amp, abbr {
@@ -23,13 +25,13 @@
 		}
 
 		#container {
-			margin: 24px;
+			margin: 24px 24px 0px 24px;
 			width: 480px;
-			box-shadow: 0px 0px 24px #76dfe3;
+			box-shadow: 0px 0px 8px #404e87;
 		}
 
 		#banner {
-			background-color: #edecec;
+			background-color: #efefef;
 			padding: 16px;
 		}
 
@@ -44,41 +46,43 @@
 
 		#banner-heading {
 			color: #222;
-			font-size: 23px;
-			line-height: 24px;
+			font-size: 32px;
+			line-height: 42px;
 			font-weight: normal;
-			text-transform: uppercase;
 		}
 
-		#banner-olb {
+		#banner p {
 			color: #555;
-			font-size: 16px;
-			line-height: 18px;
+			line-height: 22px;
 			margin-top: 4px;
 		}
 
 		#nav {
-			background-color: #edde45;
-			overflow: auto;
-			zoom: 1;
+			background-color: #6dd1cf;
+			margin: 0px;
+			padding: 0px;
+		}
+
+		#nav ul {
+			list-style-type: none;
+			line-height: 24px;
+			margin: 0px;
+			padding: 4px 0px;
+			text-decoration: none;
+			color: #5078ab;
 		}
 
 		#nav a {
 			display: block;
-			float: left;
-			font-size: 15px;
-			height: 24px;
-			width: 80px;
-			padding: 10px 8px 6px 8px;
-			color: #ea3556;
+			color: #404e87;
 			text-decoration: none;
+			padding: 4px 0px 4px 96px;
 		}
 
 		#nav a:hover, a:focus {
-			background-color: #ea3556;
-			color: #edde45;
+			background-color: #A0ebe9;
+			color: #283054;
 			text-decoration: underline;
-			text-shadow: 0px 0px 3px #ba243f;
 		}
 	</style>
 	<link href="http://fonts.googleapis.com/css?family=Nunito:300" rel="stylesheet">
@@ -90,18 +94,25 @@
 			<div id="banner-content">
 				<img id="banner-avatar" src="https://secure.gravatar.com/avatar/b7a91c08d26e5acd81eee0ca34142796?s=64#38;d=http%3A%2F%2Flucasrizoli.com%2Fimg%2Flucasrizoli-128.png" alt="Lucas Rizoli" width="64" height="64">
 				<h1 id="banner-heading">Lucas Rizoli</h1>
-				<p id="banner-olb">Digs games, <abbr title="user interfaces">UI</abbr>, <span class="amp">&#38;</span> the web. Lives in Toronto.
+				<p id="banner-olb">
+					Games User Researcher in Toronto.
+				</p>
+				<p>
+					Digs cognitive psych, <abbr title="user experience">UX</abbr>/<abbr title="user interfaces">UI</abbr>, <span class="amp">&#38;</span> Pynchon.
 					<br>
-					Born in Brazil, not a pirate ship full of apples.</p>
+					Born in Brazil&#8212;not a pirate ship full of apples.
+				</p>
 			</div>
 		</div>
 
 		<div id="nav" role="navigation">
-			<a href="https://twitter.com/lucasrizoli">@lucasrizoli</a>
-			<a href="http://www.goodreads.com/lucasrizoli ">GoodReads</a>
-			<a href="http://slideshare.net/lrizoli/">SlideShare</a>
-			<a href="https://github.com/lucasrizoli">GitHub</a>
-			<a href="http://steamcommunity.com/id/lucasrizoli">Steam</a>
+			<ul>
+				<li><a href="https://www.youtube.com/c/LucasRizoli">LucasRizoli on YouTube</a></li>
+				<li><a href="http://steamcommunity.com/id/lucasrizoli">lucasrizoli on Steam</a></li>
+				<li><a href="http://live.xbox.com/profile/profile.aspx?pp=0&#38;GamerTag=lucasrizoli">lucasrizoli on Xbox</a></li>
+				<li><a href="http://profiles.us.playstation.com/playstation/psn/profiles/lucasrizoli">lucasrizoli on <abbr title="PlayStation Network">PSN</abbr></a></li>
+				<li><a href="https://twitter.com/lucasrizoli">@lucasrizoli on Twitter</a></li>
+			</ul>
 		</div>
 	</div>
 </body>
