@@ -1,5 +1,10 @@
 # Accessibility in Games Resources
 
+## Definition
+> **Accessibility** (aka. a11y) is the aspect of the design and realization of the game that considers players with disabilities. **Disabilities** are the issues that come from the interaction of players' bodies—vision, hearing, motor skills, cognitive abilities, etc.—and the features of the game.
+
+> Many design solutions for accessibility (1) communicate information in more than one way—for example, teams are shown with distinct colours and icons—and (2) allow players some flexibility in how they interact or experience the game—for example, how controls are mapped, whether subtitles are on/off, and changes to game difficulty.
+
 ## Accessibility in general
   * [Microsoft's introduction to Inclusive Design](https://www.microsoft.com/en-us/design/inclusive)
   * [WebAIM's POUR Guidelines](https://webaim.org/articles/pour/) - The Perceivable, Operable, Understandable, Robust guidelines are written for the web, but can be applied to games
