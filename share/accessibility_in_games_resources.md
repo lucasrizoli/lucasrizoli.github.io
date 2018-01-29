@@ -14,7 +14,7 @@
 ## Video talks & interviews
   * ★ [The Fight for Accessibility](https://www.youtube.com/watch?v=EJm3uwTaYng) on YouTube - Brief interview with Ian Hamilton at Noclip Sessions
   * ★ [Friction that fits](https://youtu.be/Zw7aou8ldwA) on YouTube - Inclusive Game design that Challenges Players in the Right Ways
-  * [No More Excuses: Your Guide to Accessible Design on YouTube](https://www.youtube.com/watch?v=t5mD1l6miZA)
+  * [No More Excuses: Your Guide to Accessible Design](https://www.youtube.com/watch?v=t5mD1l6miZA) on YouTube
 
 ## Case studies
   * [_Evolve_: An Adventure in Accessibility Retrofitting](https://www.youtube.com/watch?v=K56VO28WGfA) on YouTube
