@@ -46,6 +46,7 @@
   * [Color Oracle](http://colororacle.org/) - free color blindness simulator for Windows, Mac and Linux (Java req.).
 ### Text & Reading
  * [Typefaces for Dyslexia](https://bdatech.org/what-technology/typefaces-for-dyslexia/) - Guidelines for designers from the British Dyslexia Association
+ * [It's all about Legibility](http://www.tomontheweb2.ca/CMX/4D5E2/) - Quick demo of what can make text easier/harder to read
 
 ## Organizations & Conferences  
   * [#GAConf: Game Accessibility Conference](https://www.gaconf.com/conference/)
