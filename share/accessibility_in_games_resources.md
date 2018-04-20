@@ -30,7 +30,9 @@
 
 ## Case studies
   * [_Evolve_: An Adventure in Accessibility Retrofitting](https://www.youtube.com/watch?v=K56VO28WGfA) on YouTube
+  * [_Uncharted 4_: A New Adventure In Video Game Accessibility](https://www.youtube.com/watch?v=a0ZNk66ffHg) on YouTube - design, implementation, and lessons learned creating a11y features
   * [Game Accessibility: Practical Visual Fixes from EA's _Madden_ NFL Franchise](https://www.youtube.com/watch?v=h1FwCACS1C0) on YouTube
+    * [AAA Gaming While Blind](http://gdcvault.com/play/1025025/AAA-Gaming-While) on GDC Vault - specific follow-up on features for partially-sighted players of _Madden_
   * [Difficulty and Mapping in _Way of the Passive Fist_](https://youtu.be/2fxFbdwVyA4?t=10m41s) clip on YouTube
   * [_Destiny_'s Tenacious Design and Interface](https://youtu.be/zp4NZ8i80QI) on YouTube - On the free cursor, icons, and localization
 
@@ -56,5 +58,5 @@
 
 ## Organizations & Conferences  
   * [#GAConf: Game Accessibility Conference](https://www.gaconf.com/conference/)
-  ** [#GAConf videos](https://www.youtube.com/channel/UCKWG26bBd7TOiaLtc_crqvw) on YouTube
+    * [#GAConf videos](https://www.youtube.com/channel/UCKWG26bBd7TOiaLtc_crqvw) on YouTube
   * [International Game Developers' Assoc. Game Accessibility SIG](https://igda-gasig.org)
