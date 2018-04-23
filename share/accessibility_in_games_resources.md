@@ -60,3 +60,5 @@
   * [#GAConf: Game Accessibility Conference](https://www.gaconf.com/conference/)
     * [#GAConf videos](https://www.youtube.com/channel/UCKWG26bBd7TOiaLtc_crqvw) on YouTube
   * [International Game Developers' Assoc. Game Accessibility SIG](https://igda-gasig.org)
+#### Legalities
+  * [CVAA and Gaming: Your Legal Responsibilities](http://gdcvault.com/play/1025005/The-CVAA-and-Gaming-Your) on GDC Vault - accessibility requirements of games that are legally enforceable starting January, 2019 (🇺🇸 law)
