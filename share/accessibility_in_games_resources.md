@@ -27,7 +27,7 @@
   * ★ [Friction that fits](https://youtu.be/Zw7aou8ldwA) on YouTube - Inclusive Game design that challenges players in the right ways
   * [No More Excuses: Your Guide to Accessible Design](https://www.youtube.com/watch?v=t5mD1l6miZA) on YouTube
   * [Guidelines for Inclusive and Accessible Games](https://www.youtube.com/watch?v=gYvAbT1JVdQ) on YouTube
-
+ 
 ## Case studies
   * [_Evolve_: An Adventure in Accessibility Retrofitting](https://www.youtube.com/watch?v=K56VO28WGfA) on YouTube
   * [_Uncharted 4_: A New Adventure In Video Game Accessibility](https://www.youtube.com/watch?v=a0ZNk66ffHg) on YouTube - design, implementation, and lessons learned creating a11y features
@@ -42,12 +42,16 @@
   * [How to do subtitles well – Basics and Good Practices](https://www.gamasutra.com/blogs/IanHamilton/20150715/248571/How_to_do_subtitles_well__basics_and_good_practices.php)
   * [What Video Game Subtitling Got Wrong In 2017](https://www.md-subs.com/what-game-subs-got-wrong-in-2017) - Good examples of recent successes and failures in subtitling
   * [BBC Subtitle Guidelines](http://bbc.github.io/subtitle-guidelines/) - Very detailed guidelines for closed captioning
+  * [Netflix Timed Text Guidelines, English](https://partnerhelp.netflixstudios.com/hc/en-us/articles/219375728-English-Template-Timed-Text-Style-Guide) - Guidelines for subtitles/captioning
 
 ### Colour, Contrast, & Vision
   * [Colorblind accessibility in video games](http://www.gamersexperience.com/colorblind-accessibility-in-video-games-is-the-industry-heading-in-the-right-direction/) – Examples and arguments for colour choices rather than screen filters
   * [How to Design for Color Blindness](https://medium.theuxblog.com/how-to-design-for-color-blindness-a6f083b08e12) - On making good colour, contrast, and combination choices.
+  * [Colorblind accessibility in video games – is the industry heading in the right direction?](http://www.gamersexperience.com/colorblind-accessibility-in-video-games-is-the-industry-heading-in-the-right-direction/) - Filters, options, state of the industry.
   * [Importance of Nothing: On Negative Space in Level Design](https://www.youtube.com/watch?v=GZ99gAb4T0o) on YouTube - Squinting, black/white filters, and other quick ways of assessing the readability of a game
 #### Tools
+  * [LMS Daltonization](http://www.daltonize.org/2010/05/lms-daltonization-algorithm.html) - Algorithm for color corrections to compensate for color vision deficiencies
+  * [Modified Daltonization](https://twvideo01.ubm-us.net/o1/vault/gdc2017/Presentations/Stevens_Karen_GameAccessibilityPracticalFixes.pdf) PDF - Algorithm from EA included at end of GDC presentation 
   * [Colorable](http://jxnblk.com/colorable/) - Tool for finding safe color combinations that pass/fail scores for the WCAG accessibility guidelines
   * [Color Oracle](http://colororacle.org/) - free color blindness simulator for Windows, Mac and Linux (Java req.).
 
@@ -62,3 +66,5 @@
   * [International Game Developers' Assoc. Game Accessibility SIG](https://igda-gasig.org)
 #### Legalities
   * [CVAA and Gaming: Your Legal Responsibilities](http://gdcvault.com/play/1025005/The-CVAA-and-Gaming-Your) on GDC Vault - accessibility requirements of games that are legally enforceable starting January, 2019 (🇺🇸 law)
+   * [The CVAA and What it Means for Gaming Access](https://channel9.msdn.com/Shows/Level-Up/GAConf-2018-The-CVAA-and-What-it-Means-for-Gaming-Access) on Channel 9 - On US legislation relating to accessibility and video games on consoles
+
