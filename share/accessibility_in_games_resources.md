@@ -52,7 +52,7 @@
   * [Color Oracle](http://colororacle.org/) - free color blindness simulator for Windows, Mac and Linux (Java req.).
 
 ### Text & Reading
- * ★ [Designing Text UX for Effortless Reading](http://gdcvault.com/play/1025104/Designing-Text-UX-for-Effortless) in the GDC Vault (😞 *behind paywall*) - techniques to make on-screen text frictionless to read and interact with
+ * ★ [Designing Text UX for Effortless Reading](http://gdcvault.com/play/1025104/Designing-Text-UX-for-Effortless) in the GDC Vault (😞 *behind paywall*) [YouTube re-presentation](https://www.youtube.com/watch?v=mopBSNyFEE4) - techniques to make on-screen text frictionless to read and interact with
  * [Typefaces for Dyslexia](https://bdatech.org/what-technology/typefaces-for-dyslexia/) - Guidelines for designers from the British Dyslexia Association
  * [It's all about Legibility](http://www.tomontheweb2.ca/CMX/4D5E2/) - Quick demo of what can make text easier/harder to read
 
