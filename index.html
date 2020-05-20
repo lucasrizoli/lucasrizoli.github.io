@@ -15,12 +15,12 @@
 			font-size: 18px;
 		}
 
-		abbr {
+		abbr, acronym {
 			border-bottom: none;
 			text-decoration: none;
 		}
 
-		span.amp, abbr {
+		span.amp, acronym {
 			font-size: 0.9em;
 		}
 
@@ -30,30 +30,30 @@
 			box-shadow: 0px 0px 8px #404e87;
 		}
 
-		#banner {
+		#topper {
 			background-color: #efefef;
 			padding: 16px;
 		}
 
-		#banner-content {
+		#topper-content {
 			margin-left: 80px;
 		}
 
-		#banner-avatar {
+		#topper-avatar {
 			border-radius: 50%;
 			float: left;
 			margin-left: -80px;
 			object-fit: cover;
 		}
 
-		#banner-heading {
+		#topper-heading {
 			color: #222;
 			font-size: 32px;
 			line-height: 42px;
 			font-weight: normal;
 		}
 
-		#banner p {
+		#topper p {
 			color: #555;
 			line-height: 22px;
 			margin-top: 4px;
@@ -75,9 +75,12 @@
 		}
 
 		#nav a {
-			display: block;
 			color: #404e87;
 			text-decoration: none;
+		}
+
+		#nav .fullwide {
+			display: block;
 			padding: 4px 0px 4px 96px;
 		}
 
@@ -86,22 +89,24 @@
 			color: #283054;
 			text-decoration: underline;
 		}
+
 	</style>
 	<link href="http://fonts.googleapis.com/css?family=Nunito:300" rel="stylesheet">
 </head>
 <body>
 	<div id="container">
 
-		<div id="banner" role="banner">
-			<div id="banner-content">
-				<img id="banner-avatar" src="lucasrizoli.jpg" alt="Lucas Rizoli" width="64" height="64">
-				<h1 id="banner-heading">Lucas Rizoli</h1>
-				<p id="banner-olb">
+		<div id="topper" role="topper">
+			<div id="topper-content">
+				<img id="topper-avatar" src="lucasrizoli.jpg" alt="Lucas Rizoli" width="64" height="64">
+				<h1 id="topper-heading">Lucas Rizoli</h1>
+				<p id="topper-olb">
 					Games User Researcher in Toronto.
 				</p>
 				<p>
-					Digs cognitive psych, <abbr title="user experience">UX</abbr>/<abbr title="user interfaces">UI</abbr>, <span class="amp">&#38;</span> Pynchon.
-					<br>
+					Digs cognitive <abbr title="psychology">psych</abbr>, <acronym title="User eXperience">UX</acronym>, <span class="amp">&#38;</span> Pynchon.
+				</p>
+				<p>
 					Born in Brazil&#8212;not a pirate ship full of apples.
 				</p>
 			</div>
@@ -109,15 +114,12 @@
 
 		<div id="nav" role="navigation">
 			<ul>
-				<li><a href="https://mastodon.social/&#64;lucasrizoli">lucasrizoli@mastodon.social on Mastodon</a></li>
-				<li><a href="https://www.goodreads.com/user/show/17779269-lucas-rizoli">Lucas Rizoli on Goodreads</a></li>
-				<li><a href="http://steamcommunity.com/id/lucasrizoli">lucasrizoli on Steam</a></li>
-				<li><a href="http://live.xbox.com/profile/profile.aspx?pp=0&#38;GamerTag=lucasrizoli">lucasrizoli on Xbox Live</a></li>
-				<li><a href="https://my.playstation.com/profile/lucasrizoli">lucasrizoli on PlayStation Network</a></li>
-				<li><a href="https://www.gog.com/u/soupface">soupface on <abbr title="Good Old Games">GOG</abbr></a></li>
-				<li><a href="https://www.youtube.com/c/LucasRizoli">LucasRizoli on YouTube</a></li>
-				<li><a href="https://mixer.com/lucasrizoli">lucasrizoli on Mixer</a></li>
-				<li><a href="http://twitch.tv/lucasrizoli">lucasrizoli on Twitch</a></li>
+				<li><a href="https://mastodon.social/&#64;lucasrizoli" class="fullwide">Microblogging on Mastodon</a></li>
+				<li><a href="https://www.goodreads.com/user/show/17779269-lucas-rizoli" class="fullwide">Reading on Goodreads</a></li>
+				<li><a href="https://www.linkedin.com/in/lucas-rizoli" class="fullwide">Professional profile on LinkedIn</a></li>
+				<li><a href="https://www.youtube.com/c/LucasRizoli" class="fullwide">Videos on YouTube</a></li>
+				<li class="fullwide">Streaming on <a href="https://mixer.com/lucasrizoli">Mixer</a> <span class="amp">&#38;</span> <a href="http://twitch.tv/lucasrizoli">Twitch</a></li>
+				<li class="fullwide">Playing games on <a href="http://steamcommunity.com/id/lucasrizoli">Steam</a>, <a href="http://live.xbox.com/profile/profile.aspx?pp=0&#38;GamerTag=lucasrizoli">Xbox</a>, <a href="https://my.playstation.com/profile/lucasrizoli">PlayStation</a>, <span class="amp">&#38;</span> <a href="https://www.gog.com/u/soupface"><acronym title="Good Old Games">GOG</acronym></a></li>
 			</ul>
 		</div>
 	</div>
